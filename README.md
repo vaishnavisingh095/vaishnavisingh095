@@ -1,13 +1,9 @@
 <h1 align="center">Hey folks, I'm Vaishnavi singh</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Web3 developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavisingh095&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavisingh095" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 👯 I’m looking to collaborate on **React, next.js Projects**
-
-- 💬 Ask me about **c++,css,Javascript**
+- 🔭 I’m currently working on **Web3 Development**
 
 - 📫 How to reach me **vaishnavisingh7989@gmail.com**
 
