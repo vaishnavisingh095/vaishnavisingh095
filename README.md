@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vaishnavisingh7989@gmail.com**
 
-- ⚡ Fun fact **You can yo-yo in space.**
+- ⚡ Fun fact **You can yo-yo in space..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
