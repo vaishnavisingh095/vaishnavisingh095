@@ -99,12 +99,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavisingh095"/>
-
-</p>
-
 ---
 
 ### Thanks for visiting my profile!
