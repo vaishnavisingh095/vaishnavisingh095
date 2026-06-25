@@ -107,25 +107,6 @@
 
 ---
 
-# 📫 Let's Connect
-
-📧 **Email**
-**[vaishnavisingh7989@gmail.com](mailto:vaishnavisingh7989@gmail.com)**
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/vaishnavisingh0/
-
-💻 **GitHub**
-https://github.com/vaishnavisingh095
-
-🧩 **LeetCode**
-https://leetcode.com/u/vaishnavi_singh01/
-
-🏆 **HackerRank**
-https://www.hackerrank.com/profile/kss657931/
-
----
-
 ### Thanks for visiting my profile!
 
 I'm always interested in collaborating on data analytics projects, discussing product analytics, and connecting with fellow learners and professionals. Feel free to explore my repositories and reach out if you'd like to connect.
